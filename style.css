@@ -1,0 +1,12 @@
+/*This is the css style page*/
+/*This page must be linked to your index.html*/
+
+* {
+font-family: Georgia, Garamond, serif;
+}
+
+h1 {
+color:DarkSlateGray;
+background-color: AquaMarine;
+font-size: 28px;
+}
