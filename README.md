@@ -1,7 +1,7 @@
-#This project has moved to this <a href="https://github.com/sgs006/Udacity-Yearbook-Project">repo</a>.  Please direct all your attention/collaboration to that repo instead.  Thank you.
+# This project has moved to this <a href="https://github.com/sgs006/Udacity-Yearbook-Project">repo</a>.  Please direct all your attention/collaboration to that repo instead.  Thank you.
 
 
-# GrowWithGoogle-Udacity2018
+GrowWithGoogle-Udacity2018
 
 <p><strong>Question: What is this?</strong></p>
 <p><strong>Answer:</strong> We aren't 100% sure yet.  What we do know is that we wanted to collaborate on a project together.  If that mean's we end up creating a website with a collage of all the projects that's awesome.  If we end up creating an amalgamation of HTML/CSS/JS and want to show it off, that's great also!</p>  
