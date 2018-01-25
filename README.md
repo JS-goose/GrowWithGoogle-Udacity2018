@@ -1,3 +1,6 @@
+#This project has moved to this <a href="https://github.com/sgs006/Udacity-Yearbook-Project">repo</a>.  Please direct all your attention/collaboration to that repo instead.  Thank you.
+
+
 # GrowWithGoogle-Udacity2018
 
 <p><strong>Question: What is this?</strong></p>
